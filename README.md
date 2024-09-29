@@ -1,0 +1,1 @@
+Developed an interactive Excel dashboard for "Coffee Crave" to analyse sales and profit metrics. Gathered requirements for key performance indicators and created visualizations to present product-wise and state-wise performance. Implemented filters for data-driven decision-making, enhancing my skills in data visualization and stakeholder communication.
